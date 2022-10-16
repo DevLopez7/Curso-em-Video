@@ -20,7 +20,6 @@ for dados in range(1, 5):
     soma_idade += idade
     
     if dados == 1 and sexo in 'Mm':
-        
         maior_idade_M = idade
         nome_maisvelho = nome 
     
